@@ -11,42 +11,6 @@ TZNAME:IST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:magarmati@adisiddhi
-DTSTAMP:20261010T000000Z
-DTSTART;TZID=Asia/Kolkata:20261203T170000
-DTEND;TZID=Asia/Kolkata:20261203T200000
-SUMMARY:Magarmati, Mandapachhadan & Matrika Pujan
-DESCRIPTION:Traditional date: Agahan Krishna Dashami. Venue: Kishore Kuti, Manas Bhawan, Nagar Nigam Road, Wright Town, Jabalpur.
-LOCATION:Kishore Kuti, Manas Bhawan, Nagar Nigam Road, Wright Town, Jabalpur, Madhya Pradesh, India
-END:VEVENT
-BEGIN:VEVENT
-UID:khermai@adisiddhi
-DTSTAMP:20261010T000000Z
-DTSTART;TZID=Asia/Kolkata:20261204T090000
-DTEND;TZID=Asia/Kolkata:20261204T110000
-SUMMARY:Khermai Devi Darshan & Pujan
-DESCRIPTION:Traditional date: Agahan Krishna Ekadashi. Venue: Kishore Kuti, Manas Bhawan, Jabalpur.
-LOCATION:Kishore Kuti, Manas Bhawan, Nagar Nigam Road, Wright Town, Jabalpur, Madhya Pradesh, India
-END:VEVENT
-BEGIN:VEVENT
-UID:shreefal-sat-haldi@adisiddhi
-DTSTAMP:20261010T000000Z
-DTSTART;TZID=Asia/Kolkata:20261204T120000
-DTEND;TZID=Asia/Kolkata:20261204T140000
-SUMMARY:Shreefal Sat & Haldi (Haridralepan)
-DESCRIPTION:Lunch is associated with this event. Venue: Kishore Kuti, Manas Bhawan, Jabalpur.
-LOCATION:Kishore Kuti, Manas Bhawan, Nagar Nigam Road, Wright Town, Jabalpur, Madhya Pradesh, India
-END:VEVENT
-BEGIN:VEVENT
-UID:mehendi@adisiddhi
-DTSTAMP:20261010T000000Z
-DTSTART;TZID=Asia/Kolkata:20261204T170000
-DTEND;TZID=Asia/Kolkata:20261204T200000
-SUMMARY:Bride's Mehendi
-DESCRIPTION:Traditional date: Agahan Krishna Ekadashi. Venue: Hotel Gulzar, Jabalpur.
-LOCATION:Hotel Gulzar, Madan Mahal Chowk to Shankaracharya Chowk Road, Mahanadd, Jabalpur, Madhya Pradesh, India
-END:VEVENT
-BEGIN:VEVENT
 UID:kul-devta@adisiddhi
 DTSTAMP:20261010T000000Z
 DTSTART;TZID=Asia/Kolkata:20261205T120000
